@@ -9,7 +9,7 @@ template = "about.html"
 
 ## - [Juez GUAPA](https://juezguapa.com/)
 
-## - GitHub [Club-de-Algoritmia-Acatlan-GUAPA](https://github.com/Club-de-Algoritmia-Acatlan-GUAPA/) 
+## - GitHub [Club de Algoritmia Acatlan GUAPA](https://github.com/Club-de-Algoritmia-Acatlan-GUAPA/) 
 
 ## - Email [programacion.competitiva@acatlan.unam.mx](mailto:programacion.competitiva@acatlan.unam.mx)
 
