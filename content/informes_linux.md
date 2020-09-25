@@ -1,6 +1,6 @@
 +++
 title = "Informes Curso Intensivo Introducción a la Programación Y GNU/Linux"
-date = 2020-08-31
+date = 2020-09-25
 +++
  Fusce volutpat faucibus ultrices. Donec cursus vulputate enim, in egestas nulla egestas ac. Vivamus auctor faucibus felis, non blandit nisl scelerisque eu. Aliquam in ligula pharetra, aliquam odio vel, cursus elit. 
 <!-- more -->
