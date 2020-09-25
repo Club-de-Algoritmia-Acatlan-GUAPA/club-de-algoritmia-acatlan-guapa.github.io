@@ -5,7 +5,7 @@ jobs:
     name: shalzz/zola-deploy-action
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/master@dev
+    - uses: actions/checkout@master
     - name: shalzz/zola-deploy-action
       uses: shalzz/zola-deploy-action@v0.12.0
       env:
