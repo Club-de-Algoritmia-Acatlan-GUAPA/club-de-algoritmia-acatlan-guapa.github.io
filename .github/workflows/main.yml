@@ -5,9 +5,9 @@ jobs:
     name: shalzz/zola-deploy-action
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@dev
+    - uses: actions/master@dev
     - name: shalzz/zola-deploy-action
       uses: shalzz/zola-deploy-action@v0.12.0
       env:
-        PAGES_BRANCH: master
+        PAGES_BRANCH: gh-pages
         TOKEN: ${{ secrets.TOKEN }}
