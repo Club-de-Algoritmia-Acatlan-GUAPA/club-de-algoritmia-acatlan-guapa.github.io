@@ -14,7 +14,8 @@ taxonomies = [
 author = "Bruno A. Muciño @mucinoab"
 
 even_menu = [
-    {url = "$BASE_URL/contacto", name = "Contacto"},
+    {url = "$BASE_URL/nosotros", name = "Acerca de Nosotros "},
+    {url = "$BASE_URL/contacto", name = "Contacto "},
 ]
 
 even_title = "GUAPA"
