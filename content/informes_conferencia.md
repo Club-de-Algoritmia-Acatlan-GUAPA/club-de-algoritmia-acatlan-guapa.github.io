@@ -1,8 +1,29 @@
 +++
 title = "Sesión Informativa"
-date = 2020-09-01
+date = 2020-09-26
 +++
- Aliquam erat volutpat. Fusce vitae tellus lorem. Quisque fringilla, mauris id gravida tincidunt, quam lectus molestie nisi, eget rhoncus purus nibh nec elit. Sed vehicula eget tellus quis consectetur. Fusce eu quam a leo aliquet pellentesque. Aliquam a quam sapien. Curabitur ut metus magna. Sed quis nisl eget dolor semper semper.
+
+![Sesión Informativa](/sesion_informativa.png "Sesión Informativa")
+## Cuándo y Dónde
+La sesión informativa se llevará a cabo el día **lunes 5 de octubre** a las
+13:00 hrs por la plataforma Google Meet, puedes agregar el evento a tu 
+  <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NzVpZ3FuNmhoczZxc2s5MGgwZHVzaTRpcG0gbXVjaW5vYWJAbQ&amp;tmsrc=mucinoab%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_es.gif"></a> en el siguiente [enlace](https://calendar.google.com/event?action=TEMPLATE&tmeid=NzVpZ3FuNmhoczZxc2s5MGgwZHVzaTRpcG0gbXVjaW5vYWJAbQ&tmsrc=mucinoab%40email.com), o si lo prefieres puedes unirte directamente el día reunion en  [Google Meet](https://meet.google.com/yfz-nvae-coh).
+
 <!-- more -->
-Fusce volutpat faucibus ultrices. Donec cursus vulputate enim, in egestas nulla egestas ac. Vivamus auctor faucibus felis, non blandit nisl scelerisque eu. Aliquam in ligula pharetra, aliquam odio vel, cursus elit. 
-l
+
+En la reunión se hablará del plan que se tiene para los dos cursos que se
+impartirán.   
+
+## Curso Intensivo Introducción a la Programación Y GNU/Linux
+
+  Este curso esta pensado para estudiantes **sin o con muy poca** experiencia
+  programando y tiene como objetivo dar las bases necesarias para poder tomar el
+  *Curso Introductorio a la Programación Competitiva*. 
+
+
+## Curso Introductorio a la Programación Competitiva 
+  
+  ToDo.
+
+ 
+ Puedes encantar más información en nuestra [página principal](https://club-de-algoritmia-acatlan-guapa.github.io/), de todos modos siéntete con la libertad de preguntar cualquier duda en nuestras [distintas redes](https://club-de-algoritmia-acatlan-guapa.github.io/contacto/). 
