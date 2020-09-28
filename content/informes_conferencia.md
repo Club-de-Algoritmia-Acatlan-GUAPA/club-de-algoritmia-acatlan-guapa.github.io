@@ -22,7 +22,7 @@ impartirán.
 
 
 ## Curso Introductorio a la Programación Competitiva 
- El curso tiene como objetivo enseñar a los estudiantes como funciona la programación competitiva , partiendo por enseñar los temas mas  comunes que se necesitan para poder abordar los problemas ( estructuras de datos , teoría de gráficas  , etc.) , se discutirán las implementaciones de los algoritmos en lenguajes de programación como **C++** y **Python** .
+ El curso tiene como objetivo enseñar a los estudiantes como funciona la programación competitiva, partiendo por enseñar los temas mas  comunes que se necesitan para poder abordar los problemas (estructuras de datos, teoría de gráficas, etc.), se discutirán las implementaciones de los algoritmos en lenguajes de programación como **C++** y **Python** .
 
  
  Puedes encantar más información en nuestra [página principal](https://club-de-algoritmia-acatlan-guapa.github.io/), de todos modos siéntete con la libertad de preguntar cualquier duda en nuestras [distintas redes](https://club-de-algoritmia-acatlan-guapa.github.io/contacto/). 
