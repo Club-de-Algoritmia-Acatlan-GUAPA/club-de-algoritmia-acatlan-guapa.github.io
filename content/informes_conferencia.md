@@ -23,7 +23,7 @@ programando y tiene como objetivo dar las bases necesarias para poder tomar el
 
 
 ## Curso Introductorio a la Programación Competitiva
-El curso tiene como objetivo enseñar como funciona la programación competitiva, partiendo por enseñar los temas mas comunes que se necesitan para poder abordar los problemas (estructuras de datos, teoría de gráficas, teoría de números, etc.). Se discutirán las implementaciones de los algoritmos en lenguajes de programación como **C++** y **Python**.
+El curso tiene como objetivo enseñar como funciona la programación competitiva, partiendo por enseñar los temas más comunes que se necesitan para poder abordar los problemas (estructuras de datos, teoría de gráficas, teoría de números, etc.). Se discutirán las implementaciones de los algoritmos en lenguajes de programación como **C++** y **Python**.
 
 -------------------------------------------------------------------------------
 
