@@ -31,4 +31,4 @@ Ambos cursos son totalmente gratis y abiertos a todo público.\
 Se tiene planeado que sean ~dos sesiones por semana de ~1 hora en horario por
 definir. 
 
-  Puedes encantar más información en nuestra [página principal](https://club-de-algoritmia-acatlan-guapa.github.io/), de todos modos siéntete con la libertad de preguntar cualquier duda en nuestras [distintas redes](https://club-de-algoritmia-acatlan-guapa.github.io/contacto/).
+  Puedes encontrar más información en nuestra [página principal](https://club-de-algoritmia-acatlan-guapa.github.io/), de todos modos siéntete con la libertad de preguntar cualquier duda en nuestras [distintas redes](https://club-de-algoritmia-acatlan-guapa.github.io/contacto/).
