@@ -7,9 +7,7 @@ date = 2020-09-26
 
 ## Cuándo y Dónde
 La sesión informativa se llevará a cabo el día **lunes 5 de octubre** a las
-13:00 hrs por la plataforma Google Meet, puedes agregar el evento a tu
-<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NzVpZ3FuNmhoczZxc2s5MGgwZHVzaTRpcG0gbXVjaW5vYWJAbQ&amp;tmsrc=mucinoab%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_es.gif"></a> en el siguiente [enlace](https://calendar.google.com/event?action=TEMPLATE&tmeid=NzVpZ3FuNmhoczZxc2s5MGgwZHVzaTRpcG0gbXVjaW5vYWJAbQ&tmsrc=mucinoab%40email.com), o si lo prefieres puedes unirte directamente el día reunion en  [Google Meet](https://meet.google.com/yfz-nvae-coh).
-
+13:00 hrs por Facebook Live en nuestra página de Facebook [Algoritmia Avanzada Y Programación Competitiva](https://www.facebook.com/programacioncompetitiva).
 <!-- more -->
 
 En la reunión se hablará del plan que se tiene para los dos cursos que se
