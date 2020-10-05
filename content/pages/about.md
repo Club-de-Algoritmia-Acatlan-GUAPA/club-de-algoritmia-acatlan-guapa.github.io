@@ -5,6 +5,7 @@ template = "about.html"
 +++
 
 ## - Facebook [Algoritmia Avanzada Y Programación Competitiva](https://www.facebook.com/programacioncompetitiva)
+
 ## - [Discord](https://discord.gg/EJKBpR2)
 
 ## - [Juez GUAPA](https://juezguapa.com/)
