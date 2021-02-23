@@ -6,7 +6,7 @@ date = 2021-02-23
 ![Sesión Informativa](/sesion_informativa.png "Sesión Informativa")
 
 ## Cuándo y Dónde
-La sesión informativa se llevara a cabo el día **miercoles 3 de marzo** por Facebook Live en nuestra página de Facebook [Algoritmia Avanzada Y Programación Competitiva](https://www.facebook.com/programacioncompetitiva).
+La sesión informativa se llevará a cabo el día **miércoles 3 de marzo** por Facebook Live en nuestra página de Facebook [Algoritmia Avanzada Y Programación Competitiva](https://www.facebook.com/programacioncompetitiva).
 
 No olvides unirte al [Discord oficial.](https://discord.gg/EJKBpR2)
 <!-- more -->
