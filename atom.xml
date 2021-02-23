@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>GUAPA</title>
+	<link href="https://club-de-algoritmia-acatlan-guapa.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://club-de-algoritmia-acatlan-guapa.github.io/"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2021-02-23T00:00:00+00:00</updated>
+	<id>https://club-de-algoritmia-acatlan-guapa.github.io/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Sesión Informativa 2021</title>
+		<published>2021-02-23T00:00:00+00:00</published>
+		<updated>2021-02-23T00:00:00+00:00</updated>
+		<link href="https://club-de-algoritmia-acatlan-guapa.github.io/conferencia-3-3-21/" type="text/html"/>
+		<id>https://club-de-algoritmia-acatlan-guapa.github.io/conferencia-3-3-21/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;&#x2F;sesion_informativa.png&quot; alt=&quot;Sesión Informativa&quot; title=&quot;Sesión Informativa&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;cuando-y-donde&quot;&gt;Cuándo y Dónde&lt;&#x2F;h2&gt;
+&lt;p&gt;La sesión informativa se llevará a cabo el día &lt;strong&gt;miércoles 3 de marzo&lt;&#x2F;strong&gt; por Facebook Live en nuestra página de Facebook &lt;a href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;programacioncompetitiva&quot;&gt;Algoritmia Avanzada Y Programación Competitiva&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;No olvides unirte al &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;EJKBpR2&quot;&gt;Discord oficial.&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;En la reunión tocaremos el tema de los entrenamientos de programación competitiva.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;entrenamiento-programacion-competitiva&quot;&gt;Entrenamiento Programación Competitiva&lt;&#x2F;h2&gt;
+&lt;p&gt;El entrenamiento tiene como objetivo enseñar como funciona la programación competitiva, partiendo por enseñar los temas más comunes que se necesitan para poder abordar los problemas (estructuras de datos, teoría de gráficas, teoría de números, etc.). Se discutirán las implementaciones de los algoritmos en lenguajes de programación como &lt;strong&gt;C++&lt;&#x2F;strong&gt; y &lt;strong&gt;Python&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Tendremos algunos invitados que relataran su experiencia en el club y como los ayudo en su vida laboral.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Los cursos son totalmente gratis y abiertos a toda la comunidad estudiantil de MAC.
+Se tiene planeado que sean ~dos sesiones por semana de ~1 hora en horario por
+definir. &lt;&#x2F;p&gt;
+&lt;p&gt;Puedes encontrar más información en nuestra &lt;a href=&quot;https:&#x2F;&#x2F;club-de-algoritmia-acatlan-guapa.github.io&#x2F;&quot;&gt;página principal&lt;&#x2F;a&gt;, de todos modos siéntete con la libertad de preguntar cualquier duda en nuestras &lt;a href=&quot;https:&#x2F;&#x2F;club-de-algoritmia-acatlan-guapa.github.io&#x2F;contacto&#x2F;&quot;&gt;distintas redes&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Sesión Informativa 2020</title>
+		<published>2020-09-26T00:00:00+00:00</published>
+		<updated>2020-09-26T00:00:00+00:00</updated>
+		<link href="https://club-de-algoritmia-acatlan-guapa.github.io/informes-conferencia/" type="text/html"/>
+		<id>https://club-de-algoritmia-acatlan-guapa.github.io/informes-conferencia/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;&#x2F;sesion_informativa.png&quot; alt=&quot;Sesión Informativa&quot; title=&quot;Sesión Informativa&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;cuando-y-donde&quot;&gt;Cuándo y Dónde&lt;&#x2F;h2&gt;
+&lt;p&gt;La sesión informativa se llevó a cabo el día &lt;strong&gt;lunes 5 de octubre&lt;&#x2F;strong&gt; por Facebook Live en nuestra página de Facebook &lt;a href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;programacioncompetitiva&quot;&gt;Algoritmia Avanzada Y Programación Competitiva&lt;&#x2F;a&gt;.
+Puedes ver la grabación &lt;a href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;watch&#x2F;?v=357186482298001&quot;&gt;aquí.&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;No olvides unirte al &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;EJKBpR2&quot;&gt;Discord oficial.&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;En la reunión se hablará del plan que se tiene para los dos cursos que se
+impartirán.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;curso-intensivo-introduccion-a-la-programacion-y-gnu-linux&quot;&gt;Curso Intensivo Introducción a la Programación Y GNU&#x2F;Linux&lt;&#x2F;h2&gt;
+&lt;p&gt;Este curso esta pensado para estudiantes &lt;strong&gt;sin o con muy poca&lt;&#x2F;strong&gt; experiencia
+programando y tiene como objetivo dar las bases necesarias para poder tomar el
+&lt;em&gt;Curso Introductorio a la Programación Competitiva&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;entrenamiento-programacion-competitiva&quot;&gt;Entrenamiento Programación Competitiva&lt;&#x2F;h2&gt;
+&lt;p&gt;El entrenamiento tiene como objetivo enseñar como funciona la programación competitiva, partiendo por enseñar los temas más comunes que se necesitan para poder abordar los problemas (estructuras de datos, teoría de gráficas, teoría de números, etc.). Se discutirán las implementaciones de los algoritmos en lenguajes de programación como &lt;strong&gt;C++&lt;&#x2F;strong&gt; y &lt;strong&gt;Python&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Ambos cursos son totalmente gratis y abiertos a todo público.&lt;br &#x2F;&gt;
+Se tiene planeado que sean ~dos sesiones por semana de ~1 hora en horario por
+definir. &lt;&#x2F;p&gt;
+&lt;p&gt;Puedes encontrar más información en nuestra &lt;a href=&quot;https:&#x2F;&#x2F;club-de-algoritmia-acatlan-guapa.github.io&#x2F;&quot;&gt;página principal&lt;&#x2F;a&gt;, de todos modos siéntete con la libertad de preguntar cualquier duda en nuestras &lt;a href=&quot;https:&#x2F;&#x2F;club-de-algoritmia-acatlan-guapa.github.io&#x2F;contacto&#x2F;&quot;&gt;distintas redes&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Informes Curso Introductorio a la Programación Competitiva</title>
+		<published>2020-09-25T00:00:00+00:00</published>
+		<updated>2020-09-25T00:00:00+00:00</updated>
+		<link href="https://club-de-algoritmia-acatlan-guapa.github.io/borradores/informes-intro/" type="text/html"/>
+		<id>https://club-de-algoritmia-acatlan-guapa.github.io/borradores/informes-intro/</id>
+		<content type="html">&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Informes Curso Intensivo Introducción a la Programación Y GNU&#x2F;Linux</title>
+		<published>2020-09-25T00:00:00+00:00</published>
+		<updated>2020-09-25T00:00:00+00:00</updated>
+		<link href="https://club-de-algoritmia-acatlan-guapa.github.io/borradores/informes-linux/" type="text/html"/>
+		<id>https://club-de-algoritmia-acatlan-guapa.github.io/borradores/informes-linux/</id>
+		<content type="html">&lt;p&gt;Fusce volutpat faucibus ultrices. Donec cursus vulputate enim, in egestas nulla egestas ac. Vivamus auctor faucibus felis, non blandit nisl scelerisque eu. Aliquam in ligula pharetra, aliquam odio vel, cursus elit. &lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;Aliquam erat volutpat. Fusce vitae tellus lorem. Quisque fringilla, mauris id gravida tincidunt, quam lectus molestie nisi, eget rhoncus purus nibh nec elit. Sed vehicula eget tellus quis consectetur. Fusce eu quam a leo aliquet pellentesque. Aliquam a quam sapien. Curabitur ut metus magna. Sed quis nisl eget dolor semper semper.&lt;&#x2F;p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eget lorem ut metus tempus ultrices. Aliquam pharetra, quam sit amet semper vulputate, erat orci luctus eros, ac rhoncus libero tellus quis enim. &lt;&#x2F;p&gt;
+&lt;p&gt;Vivamus enim ipsum, eleifend sit amet velit non, ullamcorper volutpat libero. Fusce rhoncus risus id ligula tempus ornare. Duis mattis scelerisque felis, vitae sollicitudin ipsum placerat sit amet. Nullam ultricies velit ut neque dictum consectetur. Etiam faucibus turpis in malesuada fermentum. Vestibulum viverra urna quis dolor imperdiet dignissim. Ut ligula metus, ornare a augue in, auctor aliquam tortor. Nam pretium sapien id mauris semper, eget commodo ante aliquet. Sed porttitor semper posuere. Nam ac massa et eros volutpat congue eget eget elit. In quis cursus eros, sed placerat sem. Morbi varius augue quis mi lobortis, eu dignissim nibh pellentesque. Curabitur vitae sem nibh. &lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>
