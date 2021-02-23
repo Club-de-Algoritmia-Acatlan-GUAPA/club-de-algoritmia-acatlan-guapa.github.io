@@ -11,7 +11,7 @@ La sesión informativa se llevara a cabo el día **miercoles 3 de marzo** por Fa
 No olvides unirte al [Discord oficial.](https://discord.gg/EJKBpR2)
 <!-- more -->
 
-En la reunión toacaremos el tema de los entrenamientos de programación competitiva.
+En la reunión tocaremos el tema de los entrenamientos de programación competitiva.
 
 ## Entrenamiento Programación Competitiva
 El entrenamiento tiene como objetivo enseñar como funciona la programación competitiva, partiendo por enseñar los temas más comunes que se necesitan para poder abordar los problemas (estructuras de datos, teoría de gráficas, teoría de números, etc.). Se discutirán las implementaciones de los algoritmos en lenguajes de programación como **C++** y **Python**.
