@@ -1,5 +1,5 @@
 +++
-title = "Sesión Informativa 2021-2"
+title = "Sesión Informativa 2021-1"
 date = 2021-08-23
 +++
 
