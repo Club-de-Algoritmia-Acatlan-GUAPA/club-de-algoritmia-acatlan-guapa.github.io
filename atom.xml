@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>GUAPA</title>
+	<link href="https://club-de-algoritmia-acatlan-guapa.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://club-de-algoritmia-acatlan-guapa.github.io/"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2021-09-06T00:00:00+00:00</updated>
+	<id>https://club-de-algoritmia-acatlan-guapa.github.io/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Horarios 2021-1</title>
+		<published>2021-09-06T00:00:00+00:00</published>
+		<updated>2021-09-06T00:00:00+00:00</updated>
+		<link href="https://club-de-algoritmia-acatlan-guapa.github.io/horarios/" type="text/html"/>
+		<id>https://club-de-algoritmia-acatlan-guapa.github.io/horarios/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;&#x2F;sesion_informativa.png&quot; alt=&quot;Sesión Informativa&quot; title=&quot;Sesión Informativa&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;office-hours&quot;&gt;Office Hours&lt;&#x2F;h1&gt;
+&lt;p&gt;Ven a preguntar todas tus dudas.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Martes 18:00 - 20:00 &lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;meet.google.com&#x2F;nzw-ryfw-icu&quot;&gt;Link Google Meet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;calendar.google.com&#x2F;event?action=TEMPLATE&amp;amp;tmeid=MGIzcjFiY3A0cGZqNGhkczNrOHY4a3A5dHFfMjAyMTA5MDdUMjMwMDAwWiBtdWNpbm9hYkBt&amp;amp;tmsrc=mucinoab%40gmail.com&amp;amp;scp=ALL&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;calendar&#x2F;images&#x2F;ext&#x2F;gc_button1_es-419.gif&quot;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Viernes 14:00 - 16:00&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;meet.google.com&#x2F;nzw-ryfw-icu&quot;&gt;Link Google Meet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;calendar.google.com&#x2F;event?action=TEMPLATE&amp;amp;tmeid=N2plam9rdDlydWU2anQ5NGdqMmM3Y2YycnRfMjAyMTA5MTBUMTkwMDAwWiBtdWNpbm9hYkBt&amp;amp;tmsrc=mucinoab%40gmail.com&amp;amp;scp=ALL&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;calendar&#x2F;images&#x2F;ext&#x2F;gc_button1_es-419.gif&quot;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;basicos&quot;&gt;Básicos&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Martes, miércoles y jueves 13:00 - 14:00&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;meet.google.com&#x2F;mwb-vbyq-gxz&quot;&gt;Link Google Meet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;calendar.google.com&#x2F;event?action=TEMPLATE&amp;amp;tmeid=MmE3Mjh0bGZvaGphZG01NmttY2w0bGVzcmlfMjAyMTA5MDdUMTgwMDAwWiBtdWNpbm9hYkBt&amp;amp;tmsrc=mucinoab%40gmail.com&amp;amp;scp=ALL&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;calendar&#x2F;images&#x2F;ext&#x2F;gc_button1_es-419.gif&quot;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;intermedios&quot;&gt;Intermedios&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Lunes y viernes 13:00 - 14:00&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;meet.google.com&#x2F;jjc-rpgo-inh&quot;&gt;Link Google Meet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;calendar.google.com&#x2F;event?action=TEMPLATE&amp;amp;tmeid=MmJyNHRkczZmNG04ZGRka2Nxb2Fwa2huNnBfMjAyMTA5MDZUMTgwMDAwWiBtdWNpbm9hYkBt&amp;amp;tmsrc=mucinoab%40gmail.com&amp;amp;scp=ALL&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;calendar&#x2F;images&#x2F;ext&#x2F;gc_button1_es-419.gif&quot;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+</feed>
